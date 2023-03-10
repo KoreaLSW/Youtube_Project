@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# YouTuBe프로젝트
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### 📝 개요
++ YouTuBe API를 사용해서 만들어보았습니다.
++ 검색기능이나 카테고리로 YouTuBe동영상을 검색할 수 있는 기능을 넣었습니다.
++ 반응형으로 PC로 접속했을때와 모바일로 접속했을때 UI를 다르게 만들었습니다.
++ 최근 많이 사용하는 Tailwindcss를 사용하여 스타일링을 해보았습니다.
++ TanStack Query라이브러리를 사용하여 상태관리를 하였습니다.
 
-## Available Scripts
+#### ⚒ 사용 기술
++ HTML, CSS, JAVASCRIPT, REACT
++ Axios, Tailwind css, React-icons, TanStack Query
 
-In the project directory, you can run:
+#### 🔗 공유 링크
+https://bucolic-starlight-e9c325.netlify.app/
 
-### `yarn start`
+#### 📗  파일 구조
+📦src <br/>
+ ┣ 📂components <br/>
+ ┃ ┣ 📜Navbar.jsx <br/>
+ ┃ ┣ 📜NavbarList.jsx <br/>
+ ┃ ┣ 📜RelatedVideoItem.jsx <br/>
+ ┃ ┣ 📜RelatedVideos.jsx <br/>
+ ┃ ┣ 📜Search.jsx <br/>
+ ┃ ┣ 📜VideoInfo.jsx <br/>
+ ┃ ┗ 📜VideoItem.jsx <br/>
+ ┣ 📂page <br/>
+ ┃ ┣ 📜Main.jsx <br/>
+ ┃ ┣ 📜NotFound.jsx <br/>
+ ┃ ┗ 📜VideoDetail.jsx <br/>
+ ┣ 📂YouTuBeAPI <br/>
+ ┃ ┗ 📜youtubeApi.js <br/>
+ ┣ 📜App.css <br/>
+ ┣ 📜App.js <br/>
+ ┣ 📜App.test.js <br/>
+ ┣ 📜date.js <br/>
+ ┣ 📜index.css <br/>
+ ┣ 📜index.js <br/>
+ ┣ 📜logo.svg <br/>
+ ┣ 📜reportWebVitals.js <br/>
+ ┗ 📜setupTests.js <br/>
+ 
+#### 🎥 프로젝트 영상
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+|웹페이지|모바일페이지|
+|------|---|
+|![youtube (1) (1) (1)](https://user-images.githubusercontent.com/89916970/224364664-47e01a7a-70b7-4200-aa85-6d70bfa63ee2.gif)|테스트2|
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
