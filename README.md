@@ -47,6 +47,11 @@ https://bucolic-starlight-e9c325.netlify.app/
 |![youtube (1) (1) (1)](https://user-images.githubusercontent.com/89916970/224364664-47e01a7a-70b7-4200-aa85-6d70bfa63ee2.gif)|![모바일유투브 (1) (1)](https://user-images.githubusercontent.com/89916970/224376924-7d432a43-f5bc-4a19-9af8-29775fad52b0.gif)|
 
 
+#### ✨ 느낀점
++ YouTuBeAPI 공식 문서를 읽으며 프로젝트를 만들면서 API를 통한 네트워크통신에 많은 도움이 되었습니다.
++ React의 랜더링이 어떤식으로 흘러가는지 알게되었습니다.
++ Tanstack Query을 사용하면서 비동기통신을 간단하게 하는 방법을 알게되었습니다.
+
 
 
 
