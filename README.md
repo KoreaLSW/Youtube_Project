@@ -10,3 +10,31 @@
 #### ⚒ 사용 기술
 + HTML, CSS, JAVASCRIPT, REACT
 + Axios, Tailwind css, React-icons, TanStack Query
+
+#### 🔗 파일 구조
+📦src <br/>
+ ┣ 📂components <br/>
+ ┃ ┣ 📜Navbar.jsx <br/>
+ ┃ ┣ 📜NavbarList.jsx <br/>
+ ┃ ┣ 📜RelatedVideoItem.jsx <br/>
+ ┃ ┣ 📜RelatedVideos.jsx <br/>
+ ┃ ┣ 📜Search.jsx <br/>
+ ┃ ┣ 📜VideoInfo.jsx <br/>
+ ┃ ┗ 📜VideoItem.jsx <br/>
+ ┣ 📂page <br/>
+ ┃ ┣ 📜Main.jsx <br/>
+ ┃ ┣ 📜NotFound.jsx <br/>
+ ┃ ┗ 📜VideoDetail.jsx <br/>
+ ┣ 📂YouTuBeAPI <br/>
+ ┃ ┗ 📜youtubeApi.js <br/>
+ ┣ 📜App.css <br/>
+ ┣ 📜App.js <br/>
+ ┣ 📜App.test.js <br/>
+ ┣ 📜date.js <br/>
+ ┣ 📜index.css <br/>
+ ┣ 📜index.js <br/>
+ ┣ 📜logo.svg <br/>
+ ┣ 📜reportWebVitals.js <br/>
+ ┗ 📜setupTests.js <br/>
+ 
+ 
