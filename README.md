@@ -40,4 +40,9 @@ https://bucolic-starlight-e9c325.netlify.app/
  ┣ 📜reportWebVitals.js <br/>
  ┗ 📜setupTests.js <br/>
  
- 
+#### 🎥 프로젝트 영상
+
+|웹페이지|모바일페이지|
+|------|---|
+|![youtube (1) (1) (1)](https://user-images.githubusercontent.com/89916970/224364664-47e01a7a-70b7-4200-aa85-6d70bfa63ee2.gif)|테스트2|
+
