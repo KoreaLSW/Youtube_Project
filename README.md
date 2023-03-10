@@ -44,5 +44,11 @@ https://bucolic-starlight-e9c325.netlify.app/
 
 |웹페이지|모바일페이지|
 |------|---|
-|![youtube (1) (1) (1)](https://user-images.githubusercontent.com/89916970/224364664-47e01a7a-70b7-4200-aa85-6d70bfa63ee2.gif)|테스트2|
+|![youtube (1) (1) (1)](https://user-images.githubusercontent.com/89916970/224364664-47e01a7a-70b7-4200-aa85-6d70bfa63ee2.gif)|![모바일유투브 (1) (1)](https://user-images.githubusercontent.com/89916970/224376924-7d432a43-f5bc-4a19-9af8-29775fad52b0.gif)|
+
+
+
+
+
+
 
