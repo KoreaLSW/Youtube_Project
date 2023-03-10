@@ -42,7 +42,6 @@ export async function videoCategory() {
 }
 
 export async function relatedVideo(id) {
-    console.log('idid', id);
     return axios
         .get(`${YOUTUBE_URL}/search`, {
             params: {

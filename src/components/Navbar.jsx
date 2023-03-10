@@ -64,7 +64,6 @@ export default function Navbar() {
     const [boolean, setBoolean] = useState(false);
 
     const handleClick = () => {
-        console.log('click', style);
         if (boolean) {
             setStyle('sm:-left-52');
         } else {
