@@ -11,7 +11,10 @@
 + HTML, CSS, JAVASCRIPT, REACT
 + Axios, Tailwind css, React-icons, TanStack Query
 
-#### 🔗 파일 구조
+#### 🔗 공유 링크
+https://bucolic-starlight-e9c325.netlify.app/
+
+#### 📗  파일 구조
 📦src <br/>
  ┣ 📂components <br/>
  ┃ ┣ 📜Navbar.jsx <br/>
